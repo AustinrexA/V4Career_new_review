@@ -1,0 +1,30 @@
+{
+  "signature": {
+    "roles": [
+      "QA Engineer",
+      "Software Test Engineer",
+      "Manual Tester",
+      "Automation Test Engineer",
+      "Selenium Tester",
+      "QA Analyst",
+      "Software Testing Intern",
+      "SDET",
+      "Test Engineer",
+      "API Tester"
+    ],
+    "locations": [
+      "Chennai",
+      "Bengaluru",
+      "Hyderabad",
+      "Coimbatore",
+      "Kochi"
+    ],
+    "sites": [
+      "indeed",
+      "naukri",
+      "linkedin",
+      "glassdoor"
+    ]
+  },
+  "next_index": 0
+}
